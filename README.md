@@ -1,4 +1,12 @@
-## Hello Everybody! My name is Mattia👋
+### Hello Everybody! My name is Mattia👋
+
+:technologist: Jr. Web Developer<br/>
+:man_student: Studied Informatics<br/>
+⚙️ Currently learning about Software Architecture principles and DevOps best practice<br/>
+🔜 To be continued...
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Tia's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiiaaaa&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 **LANGUAGES:** 
 
